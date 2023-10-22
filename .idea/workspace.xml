@@ -4,13 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2706893-8b1c-4619-9862-43e510a49c8c" name="Changes" comment="" />
+    <list default="true" id="d2706893-8b1c-4619-9862-43e510a49c8c" name="Changes" comment="phase1.1">
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/src/main/java/fr/exia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.contract/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/main/java/fr/exia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/src/main/java/fr/exia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/main/java/fr/exia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/main/java/fr/exia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/fr/exia/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/fr/exia/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2X8ThYnophxeS1FWQ1dkcNIvw7D" />
@@ -21,9 +53,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "20 (2)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -35,8 +77,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698009828905</updated>
-      <workItem from="1698009829900" duration="5000" />
+      <workItem from="1698009829900" duration="2710000" />
     </task>
+    <task id="LOCAL-00001" summary="phase1">
+      <created>1698009991817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698009991817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="phase1.1">
+      <created>1698010071690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698010071690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="phase1" />
+    <MESSAGE value="phase1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="phase1.1" />
   </component>
 </project>
